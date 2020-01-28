@@ -2,7 +2,7 @@
 
 ## OBJECTIVE
 
-News Website created focused on CSS GRID. Responsive for mobile devices.
+News Website focused on CSS GRID. Responsive for mobile devices.
 
 ## DESIGN (screenshots)
 
