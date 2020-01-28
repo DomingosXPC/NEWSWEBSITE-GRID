@@ -28,27 +28,27 @@ News Website focused on CSS GRID. Responsive for mobile devices.
 
 #### Home Page
 
-![](./MobileHome .png)
+![](./MobileHome.png)
 
-![](./MobileHome2 .png)
+![](./MobileHome2.png)
 
-![](./MobileHome3 .png)
+![](./MobileHome3.png)
 
-![](./MobileHome4 .png)
+![](./MobileHome4.png)
 
 #### About Page
 
-![](./MobileAbout .png)
+![](./MobileAbout.png)
 
-![](./MobileAbout2 .png)
+![](./MobileAbout2.png)
 
 #### Read More Page
 
-![](./MobileReadMore .png)
+![](./MobileReadMore.png)
 
-![](./MobileReadMore2 .png)
+![](./MobileReadMore2.png)
 
-![](./MobileReadMore3 .png)
+![](./MobileReadMore3.png)
 
 ## Technologies
 
